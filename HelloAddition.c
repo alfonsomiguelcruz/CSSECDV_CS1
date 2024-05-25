@@ -2,6 +2,6 @@
 
 int main ()
 {
-	printf("%d + %d = %d", 1, 1, 1 + 1);
+	printf("%d + %d = %d", 2, 1, 2 + 1);
 	return 0;
 }
